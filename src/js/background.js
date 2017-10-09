@@ -118,7 +118,9 @@ var urlsList = [
     '*://listat.biz/*',
     '*://lmodr.biz/*',
     '*://minecrunch.co/web/*',
-    '*://minemytraffic.com/*'
+    '*://minemytraffic.com/*',
+    '*://crypto-loot.com/lib*',
+    'wss://*.crypto-loot.com/proxy*'
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(function (req) {

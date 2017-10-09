@@ -19,5 +19,5 @@
    "minimum_chrome_version": "55",
    "permissions": [ "activeTab", "tabs", "\u003Call_urls>", "webRequest", "webRequestBlocking", "*://*/*", "storage" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.6"
+   "version": "0.6.1"
 }
