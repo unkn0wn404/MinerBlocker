@@ -17,7 +17,7 @@ Even though I think using coin mining in browser to monetize content is a great 
 The idea was in opportunity to keep it separate from adblocking. Coin mining in the browser is a different thing. Where ads are tracking you and visually interfering with your browsing experience, coin mining, if abused, is eating your computer resources. The result is slow downs (from high CPU usage) and excessive power consumption. You might be OK with that and not with ads, or vice versa. And you might just want to keep ads blocked entirely and just enable the coin mining script for a minute to pass a Captcha. That's why separate extension will be very useful in your working.
 
 ### How does it work ?
-The extension is simply blocking a list of blacklisted domains in blacklist.txt. Clicking on the icon will display you a button to pause/unpause AntiMiner. If you are aware of any scripts or services that provide coin mining the browser, please submit a PR.
+The extension is simply blocking a list of blacklisted domains. Clicking on the icon will display you a button to pause/unpause AntiMiner. If you are aware of any scripts or services that provide coin mining the browser, please submit a PR.
 
 ## Docs
 There is a wiki with some useful information, make sure to give it a read if you're interested in any of those subjects:
