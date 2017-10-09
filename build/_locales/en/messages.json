@@ -1,0 +1,11 @@
+{
+   "desc": {
+      "message": "Anti Miner designed to stop coin miners scripts and block cryptojackers from using your CPU for mining"
+   },
+   "name": {
+      "message": "AntiMiner - Coin Miner Blocker"
+   },
+   "title": {
+      "message": "Antiminer blocks all JS miners on the websites you visit."
+   }
+}

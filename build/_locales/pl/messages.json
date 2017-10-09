@@ -1,0 +1,11 @@
+{
+   "desc": {
+      "message": "AntiMiner blocks cryptocurrency mining scripts and websites from using your CPU for mining"
+   },
+   "name": {
+      "message": "AntiMiner - Block Coin Miner Scripts"
+   },
+   "title": {
+      "message": "Antiminer blocks all JS miners on the websites you visit."
+   }
+}
