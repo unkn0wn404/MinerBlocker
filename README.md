@@ -1,7 +1,7 @@
-# AntiMiner - Coin Miner Blocker
+# AntiMiner - #1 Coin Minerblock
 Antiminer blocks any hidden miners on every website you visit! Antiminer Miner Blocker allows you to prevent cryptojacking scripts from mining using your CPU. At the moment Anti miner blocks Javascripts that are mining coins for Monero, Dash and other like coinhive (coin-hive) and jsecoin.
 
-![demo](https://raw.githubusercontent.com/unkn0wn404/antiminer/master/content/antiminer-screencast.gif)
+![demo](https://raw.githubusercontent.com/unkn0wn404/MinerBlocker/master/content/antiminer-screencast.gif)
 
 You can grab the extension from:
 
@@ -21,5 +21,5 @@ The extension is simply blocking a list of blacklisted domains. Clicking on the 
 
 ## Docs
 There is a wiki with some useful information, make sure to give it a read if you're interested in any of those subjects:
-* [Found a bug?](https://github.com/unkn0wn404/antiminer/wiki/Bugs)
-* [Feature/Change Requests](https://github.com/unkn0wn404/antiminer/wiki/Requests)
+* [Found a bug?](https://github.com/unkn0wn404/MinerBlocker/wiki/Bugs)
+* [Feature/Change Requests](https://github.com/unkn0wn404/MinerBlocker/wiki/Requests)
